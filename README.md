@@ -1,6 +1,6 @@
 # Hospital_Database
 
-**This project was made for a Database class during my degree program. The project entails building a database based with a very simple java program to access the information. Questions were given, plus I added additional prompts and features to better organize the informaiton in the database. The simple java program is used by selecting numbers for each givne menu. The project wasn't the interface, it was the database after all!**
+_**This project was made for a Database class during my degree program. The project entails building a database based with a very simple java program to access the information. Questions were given, plus I added additional prompts and features to better organize the informaiton in the database. The simple java program is used by selecting numbers for each givne menu. The project wasn't the interface, it was the database after all!**_
 
 This program and README were made using IntelliJ IDE in java, as well as MySQL Workbench. A local host connection will need to be created in MySQL Workbench to conntect to IntelliJ IDE. 
 
@@ -16,7 +16,7 @@ This program and README were made using IntelliJ IDE in java, as well as MySQL W
 	d) Now, we need to add a MySQL driver to the project. Click on the Project table in IntelliJ, right click the project name (database-main), click Open Module Settings,      click Libraries, and add a Library From Maven.
 	e) Search mysql-connector, and choose the latest driver. Click Apply and then OK.
 
-**Now that the database is connected to IntelliJ, we are able to run the program!**
+_**Now that the database is connected to IntelliJ, we are able to run the program!**_
 
 4) Click src file, then click the java file "HospitalMenu".
 
